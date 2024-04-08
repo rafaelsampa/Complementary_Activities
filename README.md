@@ -1,6 +1,6 @@
-# Complementary_Activities
+# Complementary Activities
 
-###Evolution
+### Evolution
 A Repository with several complementary activities in different programming languages,
 that I did so I could learn the basics. In is matter, most of those were done in the 
 first year os University.
